@@ -34,10 +34,12 @@ npm install
 npm start
 
 ```
+---
 
 ## 📁 Project Structure
 
--src/
+```bash
+src/
 ├── App.js
 ├── index.js
 └── components/
