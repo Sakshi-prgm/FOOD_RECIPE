@@ -32,3 +32,17 @@ git clone https://github.com/Sakshi22404/FOOD_RECIPE
 cd FOOD_RECIPE
 npm install
 npm start
+
+```
+
+##📁 Project Structure
+
+src/
+├── App.js
+├── index.js
+└── components/
+    ├── Mainpage.jsx
+    ├── Mealcards.jsx
+    ├── Mealinfo.jsx
+    └── Favorites.jsx
+
