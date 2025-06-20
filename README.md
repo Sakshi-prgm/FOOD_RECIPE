@@ -35,9 +35,9 @@ npm start
 
 ```
 
-##📁 Project Structure
+## 📁 Project Structure
 
-src/
+-src/
 ├── App.js
 ├── index.js
 └── components/
